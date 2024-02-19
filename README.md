@@ -1,4 +1,8 @@
-# Debouncing for Enhanced User Experience and Performance
+# YouTube Clone
+
+![YouTube Clone](/src/assets/yt.png)
+
+## Debouncing for Enhanced User Experience and Performance
 
 Welcome to the world of Debouncing! This technique enhances user experiences and optimizes performance in your application. Let's delve into the details.
 
@@ -15,8 +19,8 @@ Imagine a scenario where a user is typing in a search query. Without debouncing,
 
 Consider an example involving 1000 users equipped with iPhone Pro Max, each typing 14 characters:
 
-- **Without Debouncing**: 14 letters * 1000 users = 14,000 API Calls
-- **With Debouncing**: 3 API Calls * 1000 users = 3,000 API Calls
+- **Without Debouncing**: 14 letters \* 1000 users = 14,000 API Calls
+- **With Debouncing**: 3 API Calls \* 1000 users = 3,000 API Calls
 
 Debouncing dramatically reduces the number of API calls, ensuring both a smoother user experience and optimal system performance.
 
